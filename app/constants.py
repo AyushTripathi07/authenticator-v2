@@ -1,0 +1,3 @@
+JWT_SECRET_KEY = "default_secret_key"
+TOTP_INTERVAL = 30
+TOTP_DIGITS = 6
